@@ -648,3 +648,11 @@ Received Import Request.
 Start importing Assets/NewLayer.terrainlayer using Guid(7cf22588251d845c5b45cf38cfe97849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bf73a0da243e6d2370d0db980bfa7a') in 0.009460 seconds 
   Import took 0.012105 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 92.735738 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(7cf22588251d845c5b45cf38cfe97849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(7cf22588251d845c5b45cf38cfe97849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83c7fbd730d5b904971a2801d95e42d') in 0.011417 seconds 
+  Import took 0.014960 seconds .
+
