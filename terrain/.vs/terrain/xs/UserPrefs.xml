@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{63AA80F5-039F-693D-E1CE-765DEAF51F5F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs">
+    <Files>
+      <File FileName="Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="terrain" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dc2b3f92-e3be-47e4-a126-9da3753e0146" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
