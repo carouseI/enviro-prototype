@@ -184,3 +184,11 @@ Received Import Request.
 Start importing Assets/Scripts using Guid(10081bf09b1854fa1a18e31b2f0f69d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3db3a754577b2752971f74a8fbff71') in 0.000884 seconds 
   Import took 0.003745 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1533.333440 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_ridge05.brush
+  artifactKey: Guid(014d61beb3975e849b26bc42fbf17b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_ridge05.brush using Guid(014d61beb3975e849b26bc42fbf17b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a8bb44477050e16408529ee6b7cf70') in 0.231691 seconds 
+  Import took 0.248263 seconds .
+
