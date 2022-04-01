@@ -14,7 +14,7 @@ public class NPCMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _navMeshAgent = this.GetComponent<NavMeshAgent>(); //find nac mesh comp
+        _navMeshAgent = this.GetComponent<NavMeshAgent>(); //find nav mesh comp
 
         if (_navMeshAgent == null) //if null
         {
