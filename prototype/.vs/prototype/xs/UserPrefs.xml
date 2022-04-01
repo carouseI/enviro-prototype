@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{93FDA6B2-70C3-C7E3-00B8-3BA81DB5C15A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPCMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NPCMovement.cs" Line="38" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="prototype" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="NPCMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69bf1b1e-d4cd-44d3-8686-ee9d1d7cec73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
