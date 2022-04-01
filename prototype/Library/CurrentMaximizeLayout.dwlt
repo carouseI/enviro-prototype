@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 762
-  m_MinSize: {x: 734, y: 492}
+  m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 1306
+  controlID: 113
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 1307
+  controlID: 114
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,10 +160,10 @@ MonoBehaviour:
     y: 0
     width: 1139
     height: 487
-  m_MinSize: {x: 401, y: 221}
-  m_MaxSize: {x: 8001, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1289
+  controlID: 79
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,8 +183,8 @@ MonoBehaviour:
     y: 0
     width: 211
     height: 487
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -307,9 +307,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 841.9, y: 206.69847, z: 85.13985}
+    m_Target: {x: 841.92255, y: 216.02129, z: 100.54194}
     speed: 2
-    m_Value: {x: 841.9, y: 206.69847, z: 85.13985}
+    m_Value: {x: 841.92255, y: 216.02129, z: 100.54194}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -356,13 +356,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.2692688, y: 0.6288209, z: -0.24665666, w: -0.68646854}
+    m_Target: {x: -0.0155402105, y: 0.96011925, z: -0.2738107, w: -0.054496095}
     speed: 2
-    m_Value: {x: -0.2692688, y: 0.6288209, z: -0.24665666, w: -0.68646854}
+    m_Value: {x: -0.015540113, y: 0.96011317, z: -0.273809, w: -0.05449575}
   m_Size:
-    m_Target: 25.560318
+    m_Target: 15.834548
     speed: 2
-    m_Value: 25.560318
+    m_Value: 15.834548
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -474,7 +474,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 1308
+  controlID: 115
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -541,22 +541,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/mdh/Documents/GitHub/enviro-prototype/prototype
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 003e0000
-    m_LastClickedID: 15872
-    m_ExpandedIDs: 00000000fe3d000000ca9a3b
+    m_SelectedIDs: ea400000
+    m_LastClickedID: 16618
+    m_ExpandedIDs: 00000000043e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -584,7 +584,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000000ca9a3b
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -609,26 +609,26 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 983d0000
-    m_LastClickedInstanceID: 15768
+    m_SelectedInstanceIDs: a63d0000
+    m_LastClickedInstanceID: 15782
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000fe620000ae67010000000000
+    m_ExpandedInstanceIDs: c6230000fe620000ae67010000000000123f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: NPCMovement
-      m_OriginalName: NPCMovement
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 2496
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -692,7 +692,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 15776
+  m_LastSelectedObjectID: 15768
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -712,8 +712,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 275
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -729,7 +729,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: NavMeshEditorWindow
+  m_Name: InspectorWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -738,14 +738,14 @@ MonoBehaviour:
     y: 0
     width: 301
     height: 762
-  m_MinSize: {x: 300, y: 360}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 18}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
   - {fileID: 18}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -777,8 +777,8 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 15768
-  m_LastVerticalScrollValue: 46
+  m_LastInspectedObjectInstanceID: 15782
+  m_LastVerticalScrollValue: 268
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
