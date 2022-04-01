@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{93FDA6B2-70C3-C7E3-00B8-3BA81DB5C15A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPCMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ConnectedNPCPatrol.cs">
     <Files>
       <File FileName="Assets/Scripts/NPCMovement.cs" Line="17" Column="70" />
-      <File FileName="Assets/Scripts/ConnectedNPCPatrol.cs" />
-      <File FileName="Assets/Scripts/ConnectedWaypoint.cs" />
+      <File FileName="Assets/Scripts/ConnectedNPCPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ConnectedWaypoint.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="prototype" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
-              <Node name="Scripts" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ConnectedNPCPatrol.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -19,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0beea6f9-5631-4e82-8a52-abc04960515a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="abb38cdc-d427-4712-ba95-6b3715a4d049" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
