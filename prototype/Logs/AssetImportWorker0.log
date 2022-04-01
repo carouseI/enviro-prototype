@@ -164,3 +164,12 @@ Start importing  using Guid(cb4563863b1114e39b75c813559ac794) Importer(815301076
   ERROR: Unknown asset with GUID 'cb4563863b1114e39b75c813559ac794'
   Import took 0.001466 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 109.237321 seconds.
+  path: 
+  artifactKey: Guid(05014a7d5e0a34568a6a0ed27e5cf199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing  using Guid(05014a7d5e0a34568a6a0ed27e5cf199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000043 seconds  code(3) message(Unknown asset with GUID '05014a7d5e0a34568a6a0ed27e5cf199')
+  ERROR: Unknown asset with GUID '05014a7d5e0a34568a6a0ed27e5cf199'
+  Import took 0.002210 seconds .
+
