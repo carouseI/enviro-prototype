@@ -9,9 +9,9 @@ namespace Assets.Code
     public class ConnectedWaypoint : MonoBehaviour
     {
         [SerializeField]
-        protected float _connectivityRadius = 50f;
+        protected float _connectivityRadius = 50f; //connection radius
 
-        List<ConnectedWaypoint> _connections;
+        List<ConnectedWaypoint> _connections; //waypoint list
 
         // Start is called before the first frame update
         public void Start()
@@ -26,15 +26,31 @@ namespace Assets.Code
 
                 if(nextWaypoint != null) //if found + not null
                 {
-                    if(Vector3.Distance(this.transform.position, nextWaypoint.transform.position) <= connecti)
+                    if(Vector3.Distance(this.transform.position, nextWaypoint.transform.position) <= _connectivityRadius && nextWaypoint != this) //if distance between current + next waypoint, + does not equal this
+                    {
+                        _connections.Add(nextWaypoint); //add to current position
+                    }
                 }
             }
         }
 
-        // Update is called once per frame
-        void Update()
+        public override void OnDrawGizmos()
         {
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(transform.position, debugDrawRadius);
 
+            Gizmos.color = Color.yellow;
+            Gizmos.DrawWireSphere(transform.position, _connectivityRadius);
+        }
+
+        public ConnectedWaypoint NextWaypoint(ConnectedWaypoint previousWaypoint)
+        {
+            if(_connections.Count == 0)
+            {
+                Debug.LogError("insufficient waypoint count");
+                return null;
+            }
+            else if(_connections.Count ==)
         }
     }
 }

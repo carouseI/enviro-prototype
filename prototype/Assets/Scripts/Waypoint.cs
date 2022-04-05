@@ -1,10 +1,11 @@
 using UnityEngine;
 using System.Collections;
 
+
 public class Waypoint : MonoBehaviour
 {
     [SerializeField]
-    protected float debugDrawRadius = 1.0F; //set gizmo radius
+    protected float debugDrawRadius = 1.0f; //set gizmo radius
 
     public virtual void OnDrawGizmos()
     {
