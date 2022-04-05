@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{93FDA6B2-70C3-C7E3-00B8-3BA81DB5C15A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ConnectedNPCPatrol.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Waypoint.cs">
     <Files>
       <File FileName="Assets/Scripts/NPCMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ConnectedNPCPatrol.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ConnectedWaypoint.cs" />
+      <File FileName="Assets/Scripts/ConnectedNPCPatrol.cs" Line="2" Column="1" />
+      <File FileName="Assets/Scripts/ConnectedWaypoint.cs" Line="29" Column="110" />
+      <File FileName="Assets/Scripts/Waypoint.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +12,7 @@
           <Node name="prototype" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="NPCMovement.cs" selected="True" />
+                <Node name="Waypoint.cs" selected="True" />
               </Node>
             </Node>
           </Node>
