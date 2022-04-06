@@ -50,7 +50,29 @@ namespace Assets.Code
                 Debug.LogError("insufficient waypoint count");
                 return null;
             }
-            else if(_connections.Count ==)
+            else if(_connections.Count == 0) //if no waypoints
+            {
+                Debug.LogError("Insufficient waypoint count");
+                return null; //return null
+            }
+            else if(_connections.Count == 1 && _connections.Contains(previousWaypoint)) //if there's only 1 waypoint + it's the previous one
+            {
+                return previousWaypoint; //use previous
+            }
+            else //find random one that isn't the previous one
+            {
+                ConnectedWaypoint nextWaypoint;
+                int nextIndex = 0;
+
+                do
+                {
+                    nextIndex = UnityEngine.Random.Range(0, _connections.Count);
+                    nextWaypoint = _connections[nextIndex];
+                }
+                while (nextWaypoint == previousWaypoint);
+
+                return nextWaypoint;
+            }
         }
     }
 }
