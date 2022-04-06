@@ -4,35 +4,38 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class NPCMovement : MonoBehaviour
+namespace Assets.Code
 {
-    [SerializeField]
-    Transform _destination;
-
-    NavMeshAgent _navMeshAgent;
-
-    // Start is called before the first frame update
-    void Start()
+    public class NPCMovement : MonoBehaviour
     {
-        _navMeshAgent = this.GetComponent<NavMeshAgent>(); //find nav mesh comp
+        [SerializeField]
+        Transform _destination;
 
-        if (_navMeshAgent == null) //if null
+        NavMeshAgent _navMeshAgent;
+
+        // Start is called before the first frame update
+        void Start()
         {
-            Debug.LogError("nav mesh comp not attached to " + gameObject.name); //show msg
+            _navMeshAgent = this.GetComponent<NavMeshAgent>(); //find nav mesh comp
+
+            if (_navMeshAgent == null) //if null
+            {
+                Debug.LogError("nav mesh comp not attached to " + gameObject.name); //show msg
+            }
+            else
+            {
+                SetDestination();
+            }
+
         }
-        else
-        {
-            SetDestination();
-        }
 
-    }
-
-    private void SetDestination()
-    {
-        if (_destination != null) //if destination has been set
+        private void SetDestination()
         {
-            Vector3 targetVector = _destination.transform.position; //destination
-            _navMeshAgent.SetDestination(targetVector); //set agent on destination
+            if (_destination != null) //if destination has been set
+            {
+                Vector3 targetVector = _destination.transform.position; //destination
+                _navMeshAgent.SetDestination(targetVector); //set agent on destination
+            }
         }
     }
 }
