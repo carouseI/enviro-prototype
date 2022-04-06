@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace Assets.Code
 {
-    public class ConnectedWaypoint : MonoBehaviour
+    public class ConnectedWaypoint : Waypoint
     {
         [SerializeField]
         protected float _connectivityRadius = 50f; //connection radius
