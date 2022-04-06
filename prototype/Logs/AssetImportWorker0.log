@@ -261,3 +261,371 @@ Received Import Request.
 Start importing Assets/Scripts/ConnectedWaypoint.cs using Guid(3060153f500fb4bdab68ed49ced96aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2dc5696eb52f64cc3847e33796a57d') in 0.002713 seconds 
   Import took 0.005246 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 271.485272 seconds.
+  path: Assets/Scripts/ConnectedNPCPatrol.cs
+  artifactKey: Guid(b0e77b76fa8f04bcea56b3f7415e166f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ConnectedNPCPatrol.cs using Guid(b0e77b76fa8f04bcea56b3f7415e166f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e53b31c13879ac339faa1b52eccbebc') in 0.002577 seconds 
+  Import took 0.005344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.920140 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55d6a8f5dc80c4b9922ea97d9349aaa') in 0.002770 seconds 
+  Import took 0.005517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.794449 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f56e377100c5aafa994cc8cb4301d3b') in 0.002289 seconds 
+  Import took 0.004755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.570616 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e57493cc40b03bb17f5d53fac809a8') in 0.002930 seconds 
+  Import took 0.005050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 356.804946 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a228ec16c19029887af6ed2e6b7aaded') in 0.002851 seconds 
+  Import took 0.004942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.780974 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'befb89fd0f2c0edc965016a97b92f32b') in 0.002145 seconds 
+  Import took 0.004340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.914792 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f2dbc51b8776fbbf51c9b875c504a7') in 0.002862 seconds 
+  Import took 0.005457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.364664 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e8a1709d9dee7d5c3a71a4082b09bf') in 0.002979 seconds 
+  Import took 0.005241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.587662 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64fba5674d4f6eed021a2f417c37abfa') in 0.005277 seconds 
+  Import took 0.009491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.925088 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2adf0a86c23609b3611ca19f926a704c') in 0.005253 seconds 
+  Import took 0.009647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.401199 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6174e88d9c70d7aea580f3a25db88b79') in 0.002851 seconds 
+  Import took 0.005247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.293152 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f8063415211320e38374bf3587dd45') in 0.003006 seconds 
+  Import took 0.005181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.279605 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297a836ad2f9c5fe0f8a1a0f9d24e956') in 0.004884 seconds 
+  Import took 0.009188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.705077 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13c0bc9c6d72afc404e70b4e5c8a354') in 0.005175 seconds 
+  Import took 0.009485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.175026 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ac2d8ec9c483775718d5844c803833') in 0.002743 seconds 
+  Import took 0.004935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.711858 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b66f325a742ad3574ac778f38d02012a') in 0.002522 seconds 
+  Import took 0.004916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.759930 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a917475b56c6f4ddcabb9689443e1b0') in 0.002618 seconds 
+  Import took 0.004930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.124212 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bda5712b05c557c6630874d384ae3f') in 0.003947 seconds 
+  Import took 0.008095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.776999 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5380cbc14932a423143925463c473463') in 0.002503 seconds 
+  Import took 0.004734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.318404 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167c7aee17d9f6b9fba76e4080537b55') in 0.002496 seconds 
+  Import took 0.004755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.065557 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024a230aa641650b2e3398a702524390') in 0.002949 seconds 
+  Import took 0.005481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.178125 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e2a84b6a4749f8cab21fa3d76a0d14') in 0.005489 seconds 
+  Import took 0.009800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.537848 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1723045cd6033e9de083e6ffd33118e7') in 0.002339 seconds 
+  Import took 0.004642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.895783 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05903773ee11a6c589b96a95b955a3a2') in 0.002527 seconds 
+  Import took 0.004978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.676002 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6c937608eb4a830880bdc51897677e') in 0.002966 seconds 
+  Import took 0.005964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.303047 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e50ed935ae592a9acab5a1696a748249') in 0.002337 seconds 
+  Import took 0.004867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.486317 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557bf896f6d5322960f47bfd2d1db00d') in 0.002760 seconds 
+  Import took 0.005055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.776648 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52775ed5002fffd244c2c841bcc3e271') in 0.004011 seconds 
+  Import took 0.008105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.708362 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fef6db41f5eb28eb1e42d9aeab912ae') in 0.002436 seconds 
+  Import took 0.004613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.806103 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a62581c1dfc56916e51dff3539885e') in 0.002790 seconds 
+  Import took 0.005106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.281526 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc800bfab01b36554c280f96e750e47') in 0.002834 seconds 
+  Import took 0.004973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.296170 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61b5dd4a77ea16a254fda37b5020df3') in 0.002554 seconds 
+  Import took 0.004833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.034760 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a9900c1218ce6e742a5f6d419cdc6c') in 0.006262 seconds 
+  Import took 0.011376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.836698 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e88cf8cb3d9d2219670388a82d51ea') in 0.002575 seconds 
+  Import took 0.005113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.960010 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d261978c218526e1b6e628651a9b054') in 0.003923 seconds 
+  Import took 0.007952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.227044 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72278596fbbea9dbf5fc0f4b2a4c71e3') in 0.005439 seconds 
+  Import took 0.009955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.196871 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95b37251ed719f37390947d4d0e0539') in 0.002593 seconds 
+  Import took 0.004879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.868977 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1024c198cce11e2a49468a99d4871dd7') in 0.004736 seconds 
+  Import took 0.009154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.640487 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244633345f4e768adbdc19c63747a0ee') in 0.004499 seconds 
+  Import took 0.009442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.161959 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d222f10634e1f850015cbe0ecec161') in 0.002641 seconds 
+  Import took 0.004943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.365606 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2a673a6dd9bef4a6664752dec9e85e') in 0.003110 seconds 
+  Import took 0.005689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.835048 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa7dbcc1b81484fd4a4dcb918ba7db6') in 0.002414 seconds 
+  Import took 0.004820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.905539 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9038f6fa1d3a8b6023f6705cc997e64f') in 0.002606 seconds 
+  Import took 0.004839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.172139 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27dd0811d2d5bee1bf0ba5ef9417eea') in 0.002733 seconds 
+  Import took 0.005201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.705380 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7758773ad3c787a35897b359ff1c7d') in 0.002517 seconds 
+  Import took 0.004828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.210319 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ea633cd94837f94bbfd16c14246b70') in 0.003126 seconds 
+  Import took 0.005363 seconds .
+
