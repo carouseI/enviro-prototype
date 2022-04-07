@@ -29,7 +29,7 @@ namespace Assets.Code
         int _waypointsVisited;
 
         // Start is called before the first frame update
-        void Start()
+        public void Start()
         {
             _navMeshAgent = this.GetComponent<NavMeshAgent>();
 
