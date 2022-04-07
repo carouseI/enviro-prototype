@@ -61,17 +61,17 @@ namespace Assets.Code
             }
             else //find random one that isn't the previous one
             {
-                ConnectedWaypoint nextWaypoint;
+                ConnectedWaypoint nextWaypoint; //set to next waypoint
                 int nextIndex = 0;
 
                 do
                 {
-                    nextIndex = UnityEngine.Random.Range(0, _connections.Count);
-                    nextWaypoint = _connections[nextIndex];
+                    nextIndex = UnityEngine.Random.Range(0, _connections.Count); //randomise
+                    nextWaypoint = _connections[nextIndex]; //add to index
                 }
                 while (nextWaypoint == previousWaypoint);
 
-                return nextWaypoint;
+                return nextWaypoint; //return
             }
         }
     }
