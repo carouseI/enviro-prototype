@@ -35,7 +35,7 @@ namespace Assets.Code
 
             if (_navMeshAgent == null)
             {
-                Debug.LogError("Nav mesh agent comp not attached to " + gameObject.name);
+                Debug.LogError("nav mesh agent comp not attached to " + gameObject.name);
             }
             else
             {
@@ -44,7 +44,7 @@ namespace Assets.Code
                     //set at random
                     GameObject[] allWaypoints = GameObject.FindGameObjectsWithTag("Waypoint"); //find all waypoints
 
-                    if (allWaypoints.Length == 0)
+                    if (allWaypoints.Length > 0)
                     {
                         while (_currentWaypoint == null)
                         {
