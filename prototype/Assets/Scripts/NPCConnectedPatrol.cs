@@ -33,7 +33,7 @@ namespace Assets.Code
         {
             _navMeshAgent = this.GetComponent<NavMeshAgent>();
 
-            if (_navMeshAgent = null)
+            if (_navMeshAgent == null)
             {
                 Debug.LogError("Nav mesh agent comp not attached to " + gameObject.name);
             }
