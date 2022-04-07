@@ -36,23 +36,23 @@ namespace Assets.Code
 
         public override void OnDrawGizmos()
         {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(transform.position, debugDrawRadius);
+            Gizmos.color = Color.red; //set gizmo colour
+            Gizmos.DrawWireSphere(transform.position, debugDrawRadius); //set gizmos
 
-            Gizmos.color = Color.yellow;
-            Gizmos.DrawWireSphere(transform.position, _connectivityRadius);
+            Gizmos.color = Color.yellow; //set connectivity radius colour
+            Gizmos.DrawWireSphere(transform.position, _connectivityRadius); //set connectivity radius
         }
 
         public ConnectedWaypoint NextWaypoint(ConnectedWaypoint previousWaypoint)
         {
-            if(_connections.Count == 0)
+            if(_connections.Count == 0) //if 0 connections
             {
-                Debug.LogError("insufficient waypoint count");
-                return null;
+                Debug.LogError("insufficient waypoint count"); //show msg
+                return null; //return
             }
             else if(_connections.Count == 0) //if no waypoints
             {
-                Debug.LogError("Insufficient waypoint count");
+                Debug.LogError("Insufficient waypoint count"); //show msg
                 return null; //return null
             }
             else if(_connections.Count == 1 && _connections.Contains(previousWaypoint)) //if there's only 1 waypoint + it's the previous one
