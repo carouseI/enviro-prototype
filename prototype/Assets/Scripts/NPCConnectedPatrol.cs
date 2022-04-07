@@ -48,18 +48,18 @@ namespace Assets.Code
                     {
                         while (_currentWaypoint == null)
                         {
-                            int random = UnityEngine.Random.Range(0, allWaypoints.Length);
+                            int random = UnityEngine.Random.Range(0, allWaypoints.Length); //randomise
                             ConnectedWaypoint startingWaypoint = allWaypoints[random].GetComponent<ConnectedWaypoint>();
 
-                            if (startingWaypoint != null)
+                            if (startingWaypoint != null) //if not null
                             {
-                                _currentWaypoint = startingWaypoint;
+                                _currentWaypoint = startingWaypoint; //set current to starting
                             }
                         }
                     }
                     else
                     {
-                        Debug.LogError("Failed to find useable waypoints");
+                        Debug.LogError("failed to find useable waypoints"); //show msg
                     }
                 }
 
