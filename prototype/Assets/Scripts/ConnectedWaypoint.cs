@@ -50,11 +50,6 @@ namespace Assets.Code
                 Debug.LogError("insufficient waypoint count"); //show msg
                 return null; //return
             }
-            //else if(_connections.Count == 0) //if no waypoints
-            //{
-            //    Debug.LogError("Insufficient waypoint count"); //show msg
-            //    return null; //return null
-            //}
             else if(_connections.Count == 1 && _connections.Contains(previousWaypoint)) //if there's only 1 waypoint + it's the previous one
             {
                 return previousWaypoint; //use previous
