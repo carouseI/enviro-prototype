@@ -1297,3 +1297,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4111.154005 seconds.
+  path: Assets/Scripts/NPCConnectedPatrol.cs
+  artifactKey: Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPCConnectedPatrol.cs using Guid(08a60d6959a56429f9ff4d0ec79d5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00931b5d68ddcea3eb36c0fbf45f75b0') in 0.019366 seconds 
+  Import took 0.027889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.228588 seconds.
+  path: Assets/Scripts/ConnectedWaypoint.cs
+  artifactKey: Guid(3060153f500fb4bdab68ed49ced96aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ConnectedWaypoint.cs using Guid(3060153f500fb4bdab68ed49ced96aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c581f39e8df43775c408e550f6452d') in 0.003071 seconds 
+  Import took 0.006325 seconds .
+
